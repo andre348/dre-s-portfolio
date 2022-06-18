@@ -6,14 +6,13 @@ import { Link } from 'gatsby'
 const IndexPage = () => {
   return (
     <main>
-      <title>My Personal Portfolio</title>
+     <title>My Personal Portfolio</title>
      <h1>Welcome to my website.</h1>
      <p>This is my homepage.</p>
-     <Link to="about">About</Link>
-     </main>
+     <Link to="/about">About</Link>
+   </main>
   )
 }
-
 // Step 3: Export your component
 
-export default BlogPage
+export default IndexPage
