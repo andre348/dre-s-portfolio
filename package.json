@@ -14,10 +14,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.16.0",
-    "gatsby-plugin-image": "^2.16.1",
+    "gatsby": "^2.19.38",
+    "gatsby-plugin-image": "^0.7.2",
     "gatsby-plugin-sharp": "^4.16.1",
-    "gatsby-source-filesystem": "^4.16.0",
+    "gatsby-source-filesystem": "^2.11.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
